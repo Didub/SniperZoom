@@ -1,0 +1,29 @@
+{
+  "name": "sniperzoom",
+  "version": "1.0.0",
+  "title": "SniperZoom",
+  "author": {
+    "name": "Rodrigo Jiménez",
+    "url": "http://didub.com/contact.html"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "jquery": ">=1.7.4"
+  },
+  "description": "Easy zoom images with mouse and touch events, compatible with bootstrap.",
+  "keywords": [
+    "jquery-plugin",
+    "ecosystem:jquery",
+    "zoom",
+    "image",
+    "scroll",
+    "touch",
+    "bootstrap",
+    "responsive",
+    "scale",
+    "didub"
+  ],
+  "homepage": "http://didub.com",
+  "repository": "https://github.com/RodrigoJimenezGarcia/ZoomDidub",
+  "bugs": "https://github.com/RodrigoJimenezGarcia/ZoomDidub/issues"
+}
